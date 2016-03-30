@@ -1,0 +1,33 @@
+{
+  "name": "handlexpress",
+  "version": "1.0.0",
+  "description": "Build your static web site with handlebars",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "Not test found && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javimosch/handlexpress.git"
+  },
+  "keywords": [
+    "handlebars",
+    "express",
+    "gui"
+  ],
+  "author": "Javimosch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javimosch/handlexpress/issues"
+  },
+  "homepage": "https://github.com/javimosch/handlexpress#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "gulp-watch": "^4.3.5",
+    "handlebars": "^4.0.5",
+    "mkdirp": "^0.5.1",
+    "read-dir-files": "^0.1.1",
+    "watch": "^0.17.1"
+  }
+}

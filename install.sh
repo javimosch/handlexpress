@@ -1,0 +1,1 @@
+npm i --save $1 --no-bin-links
